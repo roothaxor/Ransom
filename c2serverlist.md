@@ -7,7 +7,7 @@ Credit to BleepingComputer, Cisco Blog, WooYun, Servers & IPs are collected from
 !!!NO CLICK IN THE URLS IN YOUR IMPORTANT WINDOWS COMPUTER, OR ALL YOUR DATA MAY BE ENCRYPTED BY HACKERS FOREVER AND NEVER BE DECRYPTED!!! 
 
 #####TeslaCrypt
-3m3q.org/wstr.php
+<p>3m3q.org/wstr.php
 biocarbon.com.ec/wp-content/uploads/bstr.php
 biocarbon.com.ec/wp-content/uploads/bstr.php
 conspec.us/wp-content/plugins/nextgen-galleryOLD/products/photocrati_nextgen/modules/i18n/wstr.php
@@ -100,7 +100,7 @@ manisidhu.in/zJE0fD.php
 adcconsulting.net/XEGeuI.php
 frc-pr.com/dA91lI.php
 localburialinsuranceinfo.com/zDJRc8.phpsmfinternational.com/AYNILr.php
-
+</p>
 ##### Locky 
 51.254.181.122
 51.255.107.8
