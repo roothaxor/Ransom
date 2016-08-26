@@ -1,4 +1,4 @@
-# Bang Bang
+# Whats Deal Here?
 All About Ransomware x_x Cryptography
 
 <h4> encrpter.c - Encryption program Using AES256 with CBC cipher mode ( not breakable ) </h4>
@@ -8,4 +8,4 @@ All About Ransomware x_x Cryptography
 <h4> batch_ransom_example.txt	- simple batch to show how a ransomware can be coded with batch programming</h4>
 
 
-<h2> This is only for educational purpose Criminals are invited to Use it as ransomware :) Just kidding </h2>
+<h2> This is not only for educational purpose Criminals are invited to Use it Bad Way </h2>
