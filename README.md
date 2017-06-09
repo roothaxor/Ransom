@@ -1,7 +1,6 @@
 # Ransomware & Cryptography : Gangster of internet
 
-[![N|Solid](http://www.poppyits.com/_wp_generated/wpa841a18b_05_06.jpg)]
-
+![N|Solid](http://www.poppyits.com/_wp_generated/wpa841a18b_05_06.jpg)
 
 # Scripts
 * [CryPy_Source](https://github.com/roothaxor/Ransom/blob/master/CryPy_Source.py)	: Used in wild .crypy ransomware written in python, full source code
@@ -11,4 +10,4 @@
 * [encrpter.c](https://github.com/roothaxor/Ransom/blob/master/encrypter.c) : Encryption program Using AES256 with CBC cipher mode, Written in C
 * [holycrypt-v0.3.py](https://github.com/roothaxor/Ransom/blob/master/holycrypt-v0.3.py) : Holycrypt Ransomware Source code, Dont run this if dont know what it is
 
-#### This is not only for educational purpose Criminals are invited to Use it Bad Way. Just Kidding
+### This is not only for educational purpose Criminals are invited to Use it Bad Way. Just Kidding
