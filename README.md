@@ -1,6 +1,6 @@
 # Ransomware & Cryptography : Gangster of internet
 
-[![N|Solid](https://assets.pcmag.com/media/images/499979-ransomware-feature.jpg?thumb=y&width=740&height=417)](https://www.google.com)
+[![N|Solid](http://www.poppyits.com/_wp_generated/wpa841a18b_05_06.jpg)]
 
 
 # Scripts
