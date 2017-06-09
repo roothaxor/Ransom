@@ -1,7 +1,7 @@
 # Ransomware & Cryptography : Gangster of internet
-<p align="center">
+
 [![N|Solid](https://assets.pcmag.com/media/images/499979-ransomware-feature.jpg?thumb=y&width=740&height=417)](https://www.google.com)
-<p>
+
 
 # Scripts
 * [CryPy_Source](https://github.com/roothaxor/Ransom/blob/master/CryPy_Source.py)	: Used in wild .crypy ransomware written in python, full source code
