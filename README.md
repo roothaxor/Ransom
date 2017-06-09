@@ -1,4 +1,4 @@
-# Ransomware & Cryptography : Gangster of internet
+# Ransomware & Cryptography : Virtual Gangster
 <p align="center">
   <img src="https://gcn.com/~/media/GIG/GCN/Redesign/Articles/2016/October/ransomware2.png">
 </p>
