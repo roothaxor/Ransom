@@ -1,6 +1,6 @@
 # Ransomware & Cryptography : Virtual Gangster
 <p align="center">
-  <img src="https://gcn.com/~/media/GIG/GCN/Redesign/Articles/2016/October/ransomware2.png">
+  <img src="https://cdn0.iconfinder.com/data/icons/cyber-crime-or-threats-blue-set/120/hacker_cyber_crime-256.png">
 </p>
 
 # Scripts
